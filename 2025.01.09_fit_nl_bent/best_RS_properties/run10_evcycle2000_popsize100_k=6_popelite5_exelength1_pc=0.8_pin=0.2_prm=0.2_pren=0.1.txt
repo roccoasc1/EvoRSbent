@@ -1,0 +1,3 @@
+nl(f): 27
+w_H(f): 27 , unbalenceness: 5
+W_max(f): 10
